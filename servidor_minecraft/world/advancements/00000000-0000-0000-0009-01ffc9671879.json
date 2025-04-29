@@ -1,0 +1,23 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-27 21:58:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:flower_forest": "2025-04-27 21:58:22 +0000",
+      "minecraft:deep_dark": "2025-04-27 22:06:07 +0000",
+      "minecraft:cherry_grove": "2025-04-27 22:06:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-04-27 22:07:14 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3953
+}

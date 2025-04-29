@@ -1,0 +1,17 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-28 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:flower_forest": "2025-04-28 03:05:22 +0000",
+      "minecraft:deep_dark": "2025-04-28 03:07:13 +0000",
+      "minecraft:cherry_grove": "2025-04-28 03:07:12 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3953
+}

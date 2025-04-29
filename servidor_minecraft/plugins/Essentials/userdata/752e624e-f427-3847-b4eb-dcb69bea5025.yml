@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.184.106.128
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745878566895
+  login: 1745877287844
+money: '0'
+last-account-name: Francozkai29
+logoutlocation:
+  world: f2780a57-ca08-479d-b657-a5f87ed065c8
+  world-name: world
+  x: 13.951255041970203
+  y: 13.706487860469428
+  z: -13.41575685461936
+  yaw: -141.8997344970703
+  pitch: 40.349998474121094

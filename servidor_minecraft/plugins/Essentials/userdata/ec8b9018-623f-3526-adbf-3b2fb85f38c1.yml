@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.9.156.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745802083568
+  login: 1745797988490
+money: '0'
+last-account-name: SunnyyIsHere_
+logoutlocation:
+  world: f2780a57-ca08-479d-b657-a5f87ed065c8
+  world-name: world
+  x: -6.8575152040486955
+  y: 4.0
+  z: -17.727528125644447
+  yaw: -128.065185546875
+  pitch: 9.974691390991211

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745874988747
+  login: 1745872440846
+money: '0'
+last-account-name: OsagiGX
+logoutlocation:
+  world: cad49fbf-7f3d-4d34-8b9b-0750e45c4548
+  world-name: world_nether
+  x: 15.687504
+  y: 82.02441
+  z: 7.3876305
+  yaw: -158.37704467773438
+  pitch: 27.627883911132812

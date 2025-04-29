@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.90.229.144
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745787022712
+  login: 1745786665313
+money: '0'
+last-account-name: Leo64segundario
+logoutlocation:
+  world: f2780a57-ca08-479d-b657-a5f87ed065c8
+  world-name: world
+  x: 0.13869019236428848
+  y: 0.016963393270700178
+  z: -3.669574076340508
+  yaw: 157.04690551757812
+  pitch: 37.9282112121582
